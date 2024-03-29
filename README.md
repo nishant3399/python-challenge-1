@@ -1,5 +1,12 @@
 # Python Challenge 1
 ## Menu
+
+## I received help from Jared Peck, and also looked at youtube videos which helped get me started.
+
+## https://www.youtube.com/watch?v=63nw00JqHo0
+
+***
+
 print("Welcome to Nishant's Food Truck")
 print()
 
